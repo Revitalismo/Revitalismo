@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Revitalismo
-- 👀 I’m interested in Front End Developer
-- 🌱 I’m currently learning Vue.js and Tailwind CSS
+- 👀 I’m interested in Frontend Web Developer
+- 🌱 I’m currently learning React.js and Tailwind CSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, contact my telegram @JulianPorter
+- 📫 How to reach me, contact my telegram @JulianPorter or my instagram @add.achmadjulian
 
 <!---
 Revitalismo/Revitalismo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
