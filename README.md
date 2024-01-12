@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Revitalismo
-- 👀 I’m interested in Frontend Web Developer
-- 🌱 I’m currently learning React.js and Tailwind CSS
+- 👋 Hi, I’m @Revitalismo alias Julian
+- 👀 I’m interested in Frontend Web and Mobile Developer
+- 🌱 I’m currently learning React.js, React Native, Typescript and Tailwind CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, contact my telegram @JulianPorter or my instagram @add.achmadjulian
 
